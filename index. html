@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Frontend</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Ghost of Babel Project</h1>
+    </header>
+
+    <section id="content">
+        <p>Loading data...</p>
+    </section>
+
+    <footer>
+        <p>Powered by Vercel, Supabase, and GitHub.</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
